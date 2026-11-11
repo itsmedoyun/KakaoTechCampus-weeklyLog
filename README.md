@@ -1,6 +1,6 @@
 # KakaoTechCampus-weeklyLog
 
-카카오테크캠퍼스 4기에 참여하며 **프리코스 ~ 1단계** 기간 동안 주차별로 학습한 내용을 정리한 저장소입니다.
+카카오테크캠퍼스 4기에 참여해 **프리코스 ~ 1단계** 기간 동안 주차별로 학습한 내용을 정리한 저장소입니다.
 모든 학습 기록은 코드가 아닌 [**Issues**](https://github.com/itsmedoyun/KakaoTechCampus-weeklyLog/issues?q=is%3Aissue)에 주차별로 작성되어 있습니다.
 
 ## 📚 프리코스
