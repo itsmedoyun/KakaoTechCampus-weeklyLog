@@ -5,6 +5,8 @@
 
 ## 📚 프리코스
 
+> 웹 서비스 개발 기초 — 백엔드(FastAPI), DB(SQL), 프론트엔드(HTML/CSS/JS, React), 풀스택 흐름(Next.js), 배포/인프라(Docker)
+
 | 주차 | 주제 |
 | --- | --- |
 | [Week 01](https://github.com/itsmedoyun/KakaoTechCampus-weeklyLog/issues/1) | 비동기 프로그래밍, FastAPI |
@@ -14,6 +16,8 @@
 | [Week 05](https://github.com/itsmedoyun/KakaoTechCampus-weeklyLog/issues/5) | Docker 기본 개념 및 활용 |
 
 ## 🚀 1단계
+
+> LLM 기반 AI Agent 개발 — 프롬프트 설계, 구조화 출력, RAG, MCP·도구 체이닝, 멀티 에이전트
 
 | 주차 | 주제 |
 | --- | --- |
